@@ -1,0 +1,14 @@
+C:\Users\Adel Spence\Documents\win_notifications\bin\Debug\net472\win_notifications.exe.config
+C:\Users\Adel Spence\Documents\win_notifications\bin\Debug\net472\win_notifications.exe
+C:\Users\Adel Spence\Documents\win_notifications\bin\Debug\net472\win_notifications.pdb
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.csproj.AssemblyReference.cache
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.exe.config
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.AssemblyInfoInputs.cache
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.AssemblyInfo.cs
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.csproj.CoreCompileInputs.cache
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.csproj.Fody.CopyLocal.cache
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.exe
+C:\Users\Adel Spence\Documents\win_notifications\obj\Debug\net472\win_notifications.pdb

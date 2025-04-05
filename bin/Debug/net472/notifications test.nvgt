@@ -1,0 +1,4 @@
+void main()
+{
+run("win_notifications.exe", "\"Game Started\" \"Your cookies are baking!\"", false, false);
+}
