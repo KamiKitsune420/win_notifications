@@ -1,11 +1,12 @@
 using System;
+using System.IO;
 using Microsoft.Toolkit.Uwp.Notifications;
 using Windows.UI.Notifications;
 using System.Runtime.InteropServices;
 
 namespace Notifier
 {
-    class Program
+    class Win_notifications
     {
         [STAThread]
         static void Main(string[] args)
@@ -19,9 +20,13 @@ namespace Notifier
             string title = args[0];
             string message = args[1];
 
-            // Set a unique AppUserModelID
-            string appId = "NVGT.NotifierApp";
-            NativeMethods.SetCurrentProcessExplicitAppUserModelID(appId);
+            // Get the filename of this exe (without the .exe extension)
+            string exeName = Path.GetFileNameWithoutExtension(
+                System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName
+            );
+
+            // Set AppUserModelID to the executable name (dynamic title in toast)
+            NativeMethods.SetCurrentProcessExplicitAppUserModelID(exeName);
 
             new ToastContentBuilder()
                 .AddText(title)

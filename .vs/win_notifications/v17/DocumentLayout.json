@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsatr\\OneDrive\\Documents\\GitHub\\win_notifications\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFFB645-E659-4F2C-9328-B1E46611ED29}|win_notifications.csproj|c:\\users\\tsatr\\onedrive\\documents\\github\\win_notifications\\win_notifications.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EFFB645-E659-4F2C-9328-B1E46611ED29}|win_notifications.csproj|solutionrelative:win_notifications.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "win_notifications",
+              "DocumentMoniker": "C:\\Users\\tsatr\\OneDrive\\Documents\\GitHub\\win_notifications\\win_notifications.csproj",
+              "RelativeDocumentMoniker": "win_notifications.csproj",
+              "ToolTip": "C:\\Users\\tsatr\\OneDrive\\Documents\\GitHub\\win_notifications\\win_notifications.csproj",
+              "RelativeToolTip": "win_notifications.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T04:32:26.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1263,23 +1263,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adel Spence\\.nuget\\packages\\": {},
+    "C:\\Users\\tsatr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adel Spence\\Documents\\win_notifications\\win_notifications.csproj",
+      "projectUniqueName": "C:\\Users\\tsatr\\OneDrive\\Documents\\GitHub\\win_notifications\\win_notifications.csproj",
       "projectName": "win_notifications",
-      "projectPath": "C:\\Users\\Adel Spence\\Documents\\win_notifications\\win_notifications.csproj",
-      "packagesPath": "C:\\Users\\Adel Spence\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adel Spence\\Documents\\win_notifications\\obj\\",
+      "projectPath": "C:\\Users\\tsatr\\OneDrive\\Documents\\GitHub\\win_notifications\\win_notifications.csproj",
+      "packagesPath": "C:\\Users\\tsatr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tsatr\\OneDrive\\Documents\\GitHub\\win_notifications\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adel Spence\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tsatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1288,7 +1288,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1307,7 +1306,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net472": {
@@ -1327,7 +1326,7 @@
             "version": "[7.1.2, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

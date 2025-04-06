@@ -1,0 +1,8 @@
+void main()
+{
+send_notification("Game Started", "Your cookies are baking!");
+}
+void send_notification(string title, string message)
+{
+run("win_notifications.exe", "\"" + title + "\" \"" + message + "\"", false, false);
+}

@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = win_notifications
-build_property.ProjectDir = C:\Users\Adel Spence\Documents\win_notifications\
+build_property.ProjectDir = C:\Users\tsatr\OneDrive\Documents\GitHub\win_notifications\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
