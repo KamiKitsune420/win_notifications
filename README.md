@@ -6,7 +6,7 @@ a hacky solution to send native windows notifications via the nvgt scripting lan
 A lightweight, fully portable Windows toast notification utility built with C# and .NET Framework.  
 This tool is designed to be called from other applications (like NVGT/BGT-based games or scripts) to display native Windows toast popups.
 
-## 🚀 What It Does
+## What It Does
 
 `win_notifications` provides a command-line executable (`notifier.exe`) that displays native Windows 10/11 toast notifications.  
 This is ideal for triggering in-game alerts, system reminders, or external event notifications from a script or third-party app.
@@ -26,7 +26,7 @@ To compile `notifier.exe` yourself:
 
 - NuGet Package Manager
 
-### 📦 Required NuGet Packages
+### Required NuGet Packages
 
 These will be automatically restored when you build the project:
 
