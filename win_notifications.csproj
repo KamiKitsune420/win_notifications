@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>net472</TargetFramework>
     <RootNamespace>win_notifications</RootNamespace>
     <AssemblyName>win_notifications</AssemblyName>
@@ -13,9 +13,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="DllExport" Version="1.8.0" />
+    <PackageReference Include="DllExports" Version="0.1.1" />
     <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.2" />
     <PackageReference Include="Fody" Version="6.8.2" PrivateAssets="all" />
     <PackageReference Include="Costura.Fody" Version="6.0.0" />
+    <PackageReference Include="UnmanagedExports" Version="1.2.7" />
   </ItemGroup>
 
 </Project>

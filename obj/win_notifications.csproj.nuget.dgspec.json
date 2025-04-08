@@ -54,6 +54,14 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "DllExport": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "DllExports": {
+              "target": "Package",
+              "version": "[0.1.1, )"
+            },
             "Fody": {
               "suppressParent": "All",
               "target": "Package",
@@ -62,14 +70,13 @@
             "Microsoft.Toolkit.Uwp.Notifications": {
               "target": "Package",
               "version": "[7.1.2, )"
+            },
+            "UnmanagedExports": {
+              "target": "Package",
+              "version": "[1.2.7, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x86": {
-          "#import": []
         }
       }
     }

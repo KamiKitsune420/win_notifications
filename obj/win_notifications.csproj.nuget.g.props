@@ -14,6 +14,11 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)dllexports\0.1.1\build\DllExports.props" Condition="Exists('$(NuGetPackageRoot)dllexports\0.1.1\build\DllExports.props')" />
     <Import Project="$(NuGetPackageRoot)costura.fody\6.0.0\build\Costura.Fody.props" Condition="Exists('$(NuGetPackageRoot)costura.fody\6.0.0\build\Costura.Fody.props')" />
   </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgUnmanagedExports Condition=" '$(PkgUnmanagedExports)' == '' ">C:\Users\tsatr\.nuget\packages\unmanagedexports\1.2.7</PkgUnmanagedExports>
+    <PkgDllExport Condition=" '$(PkgDllExport)' == '' ">C:\Users\tsatr\.nuget\packages\dllexport\1.8.0</PkgDllExport>
+  </PropertyGroup>
 </Project>
